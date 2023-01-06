@@ -1,0 +1,11 @@
+.table{
+    text-align: center;
+    padding: 2%;
+}
+.container{
+    width: 247%;
+    position: absolute;
+    left: 170px;
+    top: 0;
+    text-align: center;
+}
